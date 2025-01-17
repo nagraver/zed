@@ -1,0 +1,129 @@
+{"signed_in":false,"type":"Setting","setting":"theme","value":"One Dark","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"Setting","setting":"keymap","value":"VSCode","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"first open","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":1397}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":1397}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle diagnostic telemetry","milliseconds_since_first_event":2030}
+{"signed_in":false,"type":"Setting","setting":"diagnostic telemetry","value":"false","milliseconds_since_first_event":2030}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle vim","milliseconds_since_first_event":2938}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle vim","milliseconds_since_first_event":3847}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":4387}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":4387}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":4550}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":4551}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":4735}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":4735}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":10127}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":10127}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":10299}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":10299}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":10476}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":10476}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle metric telemetry","milliseconds_since_first_event":11404}
+{"signed_in":false,"type":"Setting","setting":"metric telemetry","value":"false","milliseconds_since_first_event":11404}
+{"signed_in":false,"type":"App","operation":"open project","milliseconds_since_first_event":13585}
+{"signed_in":false,"type":"App","operation":"open project","milliseconds_since_first_event":36080}
+{"signed_in":false,"type":"App","operation":"welcome page: close","milliseconds_since_first_event":49168}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"py","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":52184}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"py","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":53382}
+{"signed_in":false,"type":"App","operation":"open project","milliseconds_since_first_event":126501}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":128112}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":139310}
+{"signed_in":false,"type":"Edit","duration":32016,"environment":"editor","milliseconds_since_first_event":145835}
+{"signed_in":false,"type":"Editor","operation":"save","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":150100}
+{"signed_in":false,"type":"Memory","memory_in_bytes":123944960,"virtual_memory_in_bytes":448019267584,"milliseconds_since_first_event":235050}
+{"signed_in":false,"type":"Cpu","usage_as_percentage":9.014561,"core_count":8,"milliseconds_since_first_event":235050}
+{"signed_in":false,"type":"App","operation":"extensions page: open","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":49334}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":103168}
+{"signed_in":false,"type":"Edit","duration":535,"environment":"editor","milliseconds_since_first_event":111755}
+{"signed_in":false,"type":"Editor","operation":"save","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":120770}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"py","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":126488}
+{"signed_in":false,"type":"Memory","memory_in_bytes":184090624,"virtual_memory_in_bytes":482577367040,"milliseconds_since_first_event":141987}
+{"signed_in":false,"type":"Cpu","usage_as_percentage":7.9258223,"core_count":8,"milliseconds_since_first_event":141987}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"One Dark","milliseconds_since_first_event":166714}
+{"signed_in":false,"type":"Edit","duration":33702,"environment":"editor","milliseconds_since_first_event":166737}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Gruvbox Dark Hard","milliseconds_since_first_event":185044}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Tokyo Night","milliseconds_since_first_event":193740}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Mocha","milliseconds_since_first_event":205056}
+{"signed_in":false,"type":"Edit","duration":6720,"environment":"editor","milliseconds_since_first_event":228912}
+{"signed_in":false,"type":"Edit","duration":12073,"environment":"editor","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"Memory","memory_in_bytes":127041536,"virtual_memory_in_bytes":482569404416,"milliseconds_since_first_event":20610}
+{"signed_in":false,"type":"Cpu","usage_as_percentage":6.58093,"core_count":8,"milliseconds_since_first_event":20610}
+{"signed_in":false,"type":"Edit","duration":19570,"environment":"editor","milliseconds_since_first_event":119010}
+{"signed_in":false,"type":"Editor","operation":"save","file_extension":"py","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":216702}
+{"signed_in":false,"type":"Edit","duration":33708,"environment":"terminal","milliseconds_since_first_event":241710}
+{"signed_in":false,"type":"Memory","memory_in_bytes":88342528,"virtual_memory_in_bytes":431039348736,"milliseconds_since_first_event":260615}
+{"signed_in":false,"type":"Cpu","usage_as_percentage":6.0326943,"core_count":8,"milliseconds_since_first_event":260615}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"py","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"extensions page: open","milliseconds_since_first_event":91525}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":100581}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":105589}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":107727}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":110889}
+{"signed_in":false,"type":"App","operation":"extensions: install extension","milliseconds_since_first_event":114221}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Andromeda","milliseconds_since_first_event":118495}
+{"signed_in":false,"type":"App","operation":"open project","milliseconds_since_first_event":125635}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"py","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":139945}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Cave Dark","milliseconds_since_first_event":148150}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Dune Dark","milliseconds_since_first_event":150382}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Forest Dark","milliseconds_since_first_event":152246}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Estuary Dark","milliseconds_since_first_event":153967}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Heath Dark","milliseconds_since_first_event":158375}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Lakeside Dark","milliseconds_since_first_event":162235}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Savanna Dark","milliseconds_since_first_event":175540}
+{"signed_in":false,"type":"Memory","memory_in_bytes":151158784,"virtual_memory_in_bytes":439649566720,"milliseconds_since_first_event":175651}
+{"signed_in":false,"type":"Cpu","usage_as_percentage":12.086236,"core_count":8,"milliseconds_since_first_event":175651}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Seaside Dark","milliseconds_since_first_event":178974}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Savanna Dark","milliseconds_since_first_event":180696}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Sulphurpool Dark","milliseconds_since_first_event":183196}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Ayu Dark","milliseconds_since_first_event":185387}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Ayu Mirage","milliseconds_since_first_event":188027}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Frappe","milliseconds_since_first_event":190564}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Gruvbox Dark Soft","milliseconds_since_first_event":196194}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Helix Dark Theme","milliseconds_since_first_event":199333}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Mau Dark Theme","milliseconds_since_first_event":218885}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Mellow","milliseconds_since_first_event":221466}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"One Dark","milliseconds_since_first_event":233688}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Rosé Pine","milliseconds_since_first_event":240597}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Rosé Pine Moon","milliseconds_since_first_event":243589}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Sandcastle","milliseconds_since_first_event":245647}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Solarized Dark","milliseconds_since_first_event":248363}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Summercamp","milliseconds_since_first_event":250409}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Tokyo Night","milliseconds_since_first_event":252546}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Tokyo Night Storm","milliseconds_since_first_event":254582}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Ultimate Dark Neo","milliseconds_since_first_event":256297}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Ultimate Dark Neo","milliseconds_since_first_event":258271}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"VScode Dark Plus","milliseconds_since_first_event":260447}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Zedokai","milliseconds_since_first_event":262817}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Zedokai Classic","milliseconds_since_first_event":267680}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Cave Light","milliseconds_since_first_event":269723}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Mocha","milliseconds_since_first_event":280767}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Macchiato","milliseconds_since_first_event":282732}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Frappe","milliseconds_since_first_event":289016}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Mocha","milliseconds_since_first_event":291262}
+{"signed_in":false,"type":"App","operation":"extensions: uninstall extension","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"extensions: uninstall extension","milliseconds_since_first_event":1392}
+{"signed_in":false,"type":"App","operation":"extensions: uninstall extension","milliseconds_since_first_event":3075}
+{"signed_in":false,"type":"App","operation":"extensions: uninstall extension","milliseconds_since_first_event":5000}
+{"signed_in":false,"type":"App","operation":"extensions: uninstall extension","milliseconds_since_first_event":9151}
+{"signed_in":false,"type":"App","operation":"extensions: uninstall extension","milliseconds_since_first_event":10437}
+{"signed_in":false,"type":"Edit","duration":495,"environment":"terminal","milliseconds_since_first_event":29452}
+{"signed_in":false,"type":"Editor","operation":"save","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":56881}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":62015}
+{"signed_in":false,"type":"Editor","operation":"save","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":77538}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Catppuccin Mocha","milliseconds_since_first_event":86574}
+{"signed_in":false,"type":"App","operation":"extensions page: open","milliseconds_since_first_event":93795}
+{"signed_in":false,"type":"Memory","memory_in_bytes":204570624,"virtual_memory_in_bytes":482602975232,"milliseconds_since_first_event":94956}
+{"signed_in":false,"type":"Cpu","usage_as_percentage":14.699169,"core_count":8,"milliseconds_since_first_event":94956}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":"json","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":118624}
+{"signed_in":true,"type":"Editor","operation":"open","file_extension":null,"vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":153474}
+{"signed_in":true,"type":"App","operation":"project diagnostics: open","milliseconds_since_first_event":153476}
+{"signed_in":true,"type":"Edit","duration":46685,"environment":"editor","milliseconds_since_first_event":153488}
+{"signed_in":true,"type":"Editor","operation":"open","file_extension":null,"vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":193044}
+{"signed_in":true,"type":"Editor","operation":"open","file_extension":null,"vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":238814}
+{"signed_in":true,"type":"App","operation":"project diagnostics: open","milliseconds_since_first_event":238814}
+{"signed_in":true,"type":"Edit","duration":5,"environment":"editor","milliseconds_since_first_event":238824}
+{"signed_in":true,"type":"Edit","duration":5,"environment":"editor","milliseconds_since_first_event":286972}

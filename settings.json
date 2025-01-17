@@ -1,0 +1,108 @@
+{
+    "assistant": {
+        "dock": "right",
+        "default_model": {
+            "provider": "copilot_chat",
+            "model": "gpt-4o"
+        },
+        "version": "2"
+    },
+    "theme": "One Dark Pro JB",
+    "ssh_connections": [
+        {
+            "host": "95.181.167.192",
+            "username": "nagraver",
+            "projects": [
+                {
+                    "paths": ["/home/nagraver"]
+                }
+            ]
+        }
+    ],
+    "inlay_hints": { "enabled": true },
+    "autosave": { "after_delay": { "milliseconds": 100 } },
+    "ui_font_size": 18,
+    "ui_font_family": "Inter",
+    "buffer_font_size": 18,
+    "buffer_font_family": "JetBrains Mono",
+    "buffer_line_height": { "custom": 1.9 },
+    "tab_size": 4,
+    "buffer_font_features": { "calt": false }, // disable ligatures
+    "git": {
+        "inline_blame": {
+            "enabled": false
+        }
+    },
+    "languages": {
+        "C++": {
+            "show_inline_completions": true,
+            "formatter": {
+                "external": {
+                    "command": "clang-format",
+                    "arguments": [
+                        "--style=file:/Users/nagraver/Documents/.clang-format",
+                        "--assume-filename={buffer_path}"
+                    ]
+                }
+            }
+        },
+        "C": {
+            "show_inline_completions": true,
+            "formatter": {
+                "external": {
+                    "command": "clang-format",
+                    "arguments": [
+                        "--style=file:/Users/nagraver/Documents/.clang-format",
+                        "--assume-filename={buffer_path}"
+                    ]
+                }
+            }
+        },
+        "Python": {
+            "language_servers": ["pyright", "ruff"],
+            "formatter": {
+                "language_server": {
+                    "name": "ruff",
+                    "arguments": ["lineLength: 120"]
+                }
+            }
+        }
+    },
+    "tabs": { "activate_on_close": "left_neighbour", "file_icons": true }
+}
+
+// "experimental.theme_overrides": {
+// "surface.background": "#23272e",
+// "syntax": {
+//     "variable": {
+//         "color": "#abb2bf"
+//     },
+//     "keyword": {
+//         "color": "#e06c75" // red
+//     },
+//     "operator": {
+//         "color": "#e06c75"
+//     },
+//     "type": {
+//         "color": "#98c379"
+//     },
+//     "property": {
+//         "color": "#abb2bf" // gray
+//     },
+//     "namespace": {
+//         "color": "#98c379" // green
+//     },
+//     "function": {
+//         "color": "#56b6c2" // blue
+//     },
+//     "string": {
+//         "color": "#e6c07b" // yellow
+//     },
+//     "constant": {
+//         "color": "#f59762" // orange
+//     },
+//     "number": {
+//         "color": "#c678dd" // purple
+//     }
+// }
+// },
