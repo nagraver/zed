@@ -1,15 +1,12 @@
 {
-    "outline_panel": {
-        "dock": "right"
-    },
     "features": {
-        "edit_prediction_provider": "zed"
+        "inline_completion_provider": "none"
     },
     "assistant": {
         "dock": "right",
         "default_model": {
-            "provider": "zed.dev",
-            "model": "claude-3-5-sonnet-latest"
+            "provider": "copilot_chat",
+            "model": "gpt-4o"
         },
         "version": "2"
     },
@@ -25,8 +22,7 @@
             ]
         }
     ],
-    "show_edit_predictions": false,
-    "inlay_hints": { "enabled": true },
+    "inlay_hints": { "enabled": false },
     "autosave": { "after_delay": { "milliseconds": 100 } },
     "ui_font_size": 18,
     "ui_font_family": "Inter",
@@ -42,7 +38,7 @@
     },
     "languages": {
         "C++": {
-            "show_edit_predictions": true,
+            "show_inline_completions": true,
             "formatter": {
                 "external": {
                     "command": "clang-format",
@@ -54,7 +50,7 @@
             }
         },
         "C": {
-            "show_edit_predictions": true,
+            "show_inline_completions": true,
             "formatter": {
                 "external": {
                     "command": "clang-format",
@@ -77,3 +73,39 @@
     },
     "tabs": { "activate_on_close": "left_neighbour", "file_icons": true }
 }
+
+// "experimental.theme_overrides": {
+// "surface.background": "#23272e",
+// "syntax": {
+//     "variable": {
+//         "color": "#abb2bf"
+//     },
+//     "keyword": {
+//         "color": "#e06c75" // red
+//     },
+//     "operator": {
+//         "color": "#e06c75"
+//     },
+//     "type": {
+//         "color": "#98c379"
+//     },
+//     "property": {
+//         "color": "#abb2bf" // gray
+//     },
+//     "namespace": {
+//         "color": "#98c379" // green
+//     },
+//     "function": {
+//         "color": "#56b6c2" // blue
+//     },
+//     "string": {
+//         "color": "#e6c07b" // yellow
+//     },
+//     "constant": {
+//         "color": "#f59762" // orange
+//     },
+//     "number": {
+//         "color": "#c678dd" // purple
+//     }
+// }
+// },
