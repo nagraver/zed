@@ -1,45 +1,95 @@
 [
     {
         "bindings": {
-            "alt-cmd-l": "editor::Format",
-            "cmd-d": "editor::DuplicateLineDown",
+            "cmd-e": null,
+            "cmd-b": null,
+            "cmd-r": null,
+            "cmd-j": null,
+            "cmd-g": null,
+            "cmd-k s": "zed::OpenDefaultKeymap",
+            "cmd-shift-e": "project_panel::ToggleFocus",
+            "cmd-shift-g": "git_panel::ToggleFocus",
+            "cmd-shift-d": "terminal_panel::ToggleFocus",
+            "cmd-shift-a": "assistant::ToggleFocus",
+            "cmd-'": "editor::ExpandAllDiffHunks",
+            "ctrl-1": ["workspace::ActivatePane", 0],
+            "ctrl-2": ["workspace::ActivatePane", 1],
+            "ctrl-3": ["workspace::ActivatePane", 2],
+            "ctrl-4": ["workspace::ActivatePane", 3],
+            "ctrl-5": ["workspace::ActivatePane", 4],
+            "ctrl-6": ["workspace::ActivatePane", 5],
+            "ctrl-7": ["workspace::ActivatePane", 6],
+            "ctrl-8": ["workspace::ActivatePane", 7],
+            "ctrl-9": ["workspace::ActivatePane", 8],
+            "cmd-1": ["pane::ActivateItem", 0],
+            "cmd-2": ["pane::ActivateItem", 1],
+            "cmd-3": ["pane::ActivateItem", 2],
+            "cmd-4": ["pane::ActivateItem", 3],
+            "cmd-5": ["pane::ActivateItem", 4],
+            "cmd-6": ["pane::ActivateItem", 5],
+            "cmd-7": ["pane::ActivateItem", 6],
+            "cmd-8": ["pane::ActivateItem", 7],
+            "cmd-9": ["pane::ActivateItem", 8],
+            "cmd-0": "pane::ActivateLastItem",
+            "ctrl-{": "workspace::ActivatePreviousPane",
+            "ctrl-}": "workspace::ActivateNextPane"
+        }
+    },
+    {
+        "context": "Terminal",
+        "bindings": {
+            "cmd-shift-d": "workspace::ToggleBottomDock",
+        }
+    },
+    {
+        "context": "ProjectPanel",
+        "bindings": {
+            "cmd-shift-e": "workspace::ToggleLeftDock",
+        }
+    },
+    {
+        "context": "GitPanel",
+        "bindings": {
+            "cmd-shift-g": "workspace::ToggleLeftDock",
+        }
+    },
+    {
+        "context": "CollabPanel",
+        "bindings": {
+            "cmd-shift-c": "workspace::ToggleLeftDock",
+        }
+    },
+    {
+        "context": "OutlinePanel",
+        "bindings": {
+            "cmd-shift-b": "workspace::ToggleLeftDock",
+        }
+    },
+    {
+        "context": "Terminal",
+        "bindings": {
+            "cmd-shift-d": "workspace::ToggleBottomDock"
+        }
+    },
+    {
+        "context": "AssistantPanel",
+        "bindings": {
+            "cmd-?": "workspace::ToggleRightDock"
+        }
+    },
+    {
+        "context": "Editor",
+        "bindings": {
+            "cmd-e": null,
+            "ctrl-r": "editor::Rename",
             "alt-up": "editor::SelectLargerSyntaxNode",
             "alt-down": "editor::SelectSmallerSyntaxNode",
+            "alt-cmd-l": "editor::Format",
+            "alt-cmd-r": "editor::RevealInFileManager",
             "alt-shift-up": "editor::MoveLineUp",
             "alt-shift-down": "editor::MoveLineDown",
-            "cmd-[": "workspace::ActivateNextPane",
-            "cmd-]": "workspace::ActivatePreviousPane",
-            "cmd-1": "workspace::ToggleLeftDock",
-            "cmd-2": "workspace::ToggleRightDock",
-            "cmd-3": "workspace::ToggleBottomDock",
-            // "cmd-r": "search::ToggleReplace",
-            "cmd-r": "buffer_search::DeployReplace",
-            "cmd-4": null,
-            "cmd-5": null,
-            "cmd-6": null,
-            "cmd-7": null,
-            "cmd-8": null,
-            "cmd-9": null,
-            "cmd-0": null,
-            "cmd-b": null,
-            "cmd-j": null,
-
-            // to reibind or remember
-            "cmd-shift-k": "editor::DeleteLine",
-            "cmd-l": "editor::SelectLine",
-            "cmd-shift-l": "editor::SelectAllMatches",
-            "cmd-|": "editor::MoveToEnclosingBracket"
+            "cmd-d": "editor::DuplicateLineDown",
+            "cmd-backspace": "editor::DeleteLine"
         }
     }
 ]
-
-
-            // "ctrl-1": ["workspace::ActivatePane", 0],
-            // "ctrl-2": ["workspace::ActivatePane", 1],
-            // "ctrl-3": ["workspace::ActivatePane", 2],
-            // "ctrl-4": ["workspace::ActivatePane", 3],
-            // "ctrl-5": ["workspace::ActivatePane", 4],
-            // "ctrl-6": ["workspace::ActivatePane", 5],
-            // "ctrl-7": ["workspace::ActivatePane", 6],
-            // "ctrl-8": ["workspace::ActivatePane", 7],
-            // "ctrl-9": ["workspace::ActivatePane", 8],
