@@ -36,33 +36,47 @@
         }
     },
     {
+        "context": "Editor",
+        "bindings": {
+            "ctrl-r": "editor::Rename",
+            "alt-up": "editor::SelectLargerSyntaxNode",
+            "alt-down": "editor::SelectSmallerSyntaxNode",
+            "alt-cmd-l": "editor::Format",
+            "alt-cmd-r": "editor::RevealInFileManager",
+            "alt-shift-up": "editor::MoveLineUp",
+            "alt-shift-down": "editor::MoveLineDown",
+            "cmd-d": "editor::DuplicateLineDown",
+            "cmd-backspace": "editor::DeleteLine"
+        }
+    },
+    {
         "context": "Terminal",
         "bindings": {
-            "cmd-shift-d": "workspace::ToggleBottomDock",
+            "cmd-shift-d": "workspace::ToggleBottomDock"
         }
     },
     {
         "context": "ProjectPanel",
         "bindings": {
-            "cmd-shift-e": "workspace::ToggleLeftDock",
+            "cmd-shift-e": "workspace::ToggleLeftDock"
         }
     },
     {
         "context": "GitPanel",
         "bindings": {
-            "cmd-shift-g": "workspace::ToggleLeftDock",
+            "cmd-shift-g": "workspace::ToggleLeftDock"
         }
     },
     {
         "context": "CollabPanel",
         "bindings": {
-            "cmd-shift-c": "workspace::ToggleLeftDock",
+            "cmd-shift-c": "workspace::ToggleLeftDock"
         }
     },
     {
         "context": "OutlinePanel",
         "bindings": {
-            "cmd-shift-b": "workspace::ToggleLeftDock",
+            "cmd-shift-b": "workspace::ToggleLeftDock"
         }
     },
     {
@@ -75,21 +89,6 @@
         "context": "AssistantPanel",
         "bindings": {
             "cmd-?": "workspace::ToggleRightDock"
-        }
-    },
-    {
-        "context": "Editor",
-        "bindings": {
-            "cmd-e": null,
-            "ctrl-r": "editor::Rename",
-            "alt-up": "editor::SelectLargerSyntaxNode",
-            "alt-down": "editor::SelectSmallerSyntaxNode",
-            "alt-cmd-l": "editor::Format",
-            "alt-cmd-r": "editor::RevealInFileManager",
-            "alt-shift-up": "editor::MoveLineUp",
-            "alt-shift-down": "editor::MoveLineDown",
-            "cmd-d": "editor::DuplicateLineDown",
-            "cmd-backspace": "editor::DeleteLine"
         }
     }
 ]

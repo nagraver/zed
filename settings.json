@@ -80,10 +80,10 @@
     },
     "current_line_highlight": "gutter",
     "icon_theme": "Catppuccin Mocha",
-    "theme": "One Dark Pro",
+    "theme": "Everforest Dark",
+    "tab_size": 4,
     "ui_font_size": 18,
     "ui_font_family": "Inter",
     "buffer_font_size": 18,
-    "buffer_font_family": "JetBrains Mono",
-    "tab_size": 4
+    "buffer_font_family": "JetBrains Mono"
 }
